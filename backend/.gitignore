@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build outputs
+dist/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
+
+# VSCode
+.vscode/
