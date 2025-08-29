@@ -1,12 +1,13 @@
-import { useState } from 'react'
+import Footer from "./components/Footer";
 
 function App() {
-
   return (
-   <div>
-    <p>Hello world</p>
-   </div>
-  )
+    <div className="flex flex-col min-h-screen">
+      <main className="flex-grow">
+      </main>
+      <Footer />
+    </div>
+  );
 }
 
-export default App
+export default App;
