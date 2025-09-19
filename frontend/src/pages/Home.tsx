@@ -1,3 +1,6 @@
 export default function Home(){
-    <h1>Hello world</h1>
+    <div>
+        <h2>All BookMarks:</h2>
+        
+    </div>
 }
